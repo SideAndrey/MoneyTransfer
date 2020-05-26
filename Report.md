@@ -3,7 +3,8 @@
 Протестирован код Money Transfer в среде IntelliJ IDEA
 
 Результаты
-Обнаруженный дефект: Issue 1
+Обнаруженный дефект: 
+https://github.com/SideAndrey/MoneyTransfer/issues/1
 
 Общие рекомендации
 Привести код к виду code.md
